@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BootcampProject.iml" filepath="$PROJECT_DIR$/.idea/modules/BootcampProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BootcampProject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BootcampProject_main.iml" group="BootcampProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BootcampProject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BootcampProject_test.iml" group="BootcampProject" />
+    </modules>
+  </component>
+</project>
